@@ -86,6 +86,7 @@
             this.txtcodigo.Name = "txtcodigo";
             this.txtcodigo.Size = new System.Drawing.Size(170, 35);
             this.txtcodigo.TabIndex = 5;
+            this.txtcodigo.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtcodigo_KeyPress);
             this.txtcodigo.PreviewKeyDown += new System.Windows.Forms.PreviewKeyDownEventHandler(this.txtcodigo_PreviewKeyDown);
             // 
             // time

@@ -61,11 +61,21 @@ namespace pos
 
         private void txtcodigo_PreviewKeyDown(object sender, PreviewKeyDownEventArgs e)
         {
-            if (e.KeyCode==Keys.Enter)
+            if (e.KeyCode == Keys.Tab)
             {
-                MessageBox.Show("se encontro el articulo" + txtcodigo.Text);
+                e.IsInputKey = true;
+                
+            }
+        }
+
+        private void txtcodigo_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)13)
+            {
+                MessageBox.Show("SELECT * FROM productos WHERE codigo =" + "'" + txtcodigo.Text + "'");
                 txtcodigo.Clear();
             }
+                
         }
     }
 }
