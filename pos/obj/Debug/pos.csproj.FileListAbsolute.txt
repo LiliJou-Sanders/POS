@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\pos\pos\obj\Debug\pos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\pos\pos\obj\Debug\pos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\pos\pos\obj\Debug\pos.titulo.resources
+C:\Users\Usuario\source\repos\pos\pos\obj\Debug\pos.Properties.Resources.resources
+C:\Users\Usuario\source\repos\pos\pos\obj\Debug\pos.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\pos\pos\obj\Debug\pos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\pos\pos\bin\Debug\pos.exe.config
+C:\Users\Usuario\source\repos\pos\pos\bin\Debug\pos.exe
+C:\Users\Usuario\source\repos\pos\pos\bin\Debug\pos.pdb
+C:\Users\Usuario\source\repos\pos\pos\obj\Debug\pos.exe
+C:\Users\Usuario\source\repos\pos\pos\obj\Debug\pos.pdb
